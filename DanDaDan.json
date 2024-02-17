@@ -1,8 +1,17 @@
 {
   "title": "DanDaDan",
-  "description": "",
+  "description": "Christo goated fr",
   "artist": "Yukinobu Tatsu",
   "author": "Yukinobu Tatsu",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1708143581",
+      "groups": {
+        "": "https://manga4life.com/read-online/Dandadan-chapter-1.html"
+      }
+    }
+  }
 }
