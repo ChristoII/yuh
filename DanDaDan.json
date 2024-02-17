@@ -1,16 +1,48 @@
 {
   "title": "DanDaDan",
-  "description": "Christo goated fr",
+  "description": "For Bony",
   "artist": "Yukinobu Tatsu",
   "author": "Yukinobu Tatsu",
-  "cover": "",
+  "cover": "https://imgur.com/gallery/7M5zOfO",
   "chapters": {
     "1": {
-      "title": "1",
-      "volume": "",
+      "title": "I",
+      "volume": "I",
       "last_updated": "1708143581",
       "groups": {
         "": "https://mangadex.org/chapter/cd68c7f2-de7c-4fdf-a0e4-76a99e640155/7"
+      }
+    },
+    "2": {
+      "title": "II",
+      "volume": "I",
+      "last_updated": "1708143982",
+      "groups": {
+        "": "https://mangadex.org/chapter/cd68c7f2-de7c-4fdf-a0e4-76a99e640155/9"
+      }
+    },
+    "3": {
+      "title": "III",
+      "volume": "I",
+      "last_updated": "1708144128",
+      "groups": {
+        "": "https://mangadex.org/chapter/cd68c7f2-de7c-4fdf-a0e4-76a99e640155/9"
+      }
+    },
+    "4": {
+      "title": "IV",
+      "volume": "I",
+      "last_updated": "1708144167",
+      "groups": {
+        "https://mangadex.org/chapter/cd68c7f2-de7c-4fdf-a0e4-76a99e640155/9": ""
+      }
+    },
+    "5": {
+      "title": "V",
+      "volume": "I",
+      "last_updated": "1708144218",
+      "groups": {
+        "": "https://mangadex.org/chapter/cd68c7f2-de7c-4fdf-a0e4-76a99e640155/9"
       }
     }
   }
